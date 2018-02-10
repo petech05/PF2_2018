@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "servidor proyecto ITT",
+  "main": "PID.js",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ar-drone-png-stream": "^2.0.0",
+    "ardrone-autonomy": "^0.1.2",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "node-vincenty": "^0.0.6",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petech05/PF2_2018.git"
+  },
+  "keywords": [
+    "drone",
+    "gps",
+    "security"
+  ],
+  "author": "Pedro Lizardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petech05/PF2_2018/issues"
+  },
+  "homepage": "https://github.com/petech05/PF2_2018#readme"
+}
